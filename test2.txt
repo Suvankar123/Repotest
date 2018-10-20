@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A232-8E87
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+10/20/2018  02:21 PM    <DIR>          .
+10/20/2018  02:21 PM    <DIR>          ..
+10/20/2018  01:59 PM               407 index.html
+10/20/2018  01:59 PM               371 test.txt
+10/20/2018  02:21 PM                 0 test2.txt
+               3 File(s)            778 bytes
+               2 Dir(s)  351,367,401,472 bytes free
